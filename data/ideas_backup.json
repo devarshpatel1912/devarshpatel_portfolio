@@ -1,0 +1,66 @@
+[
+  {
+    "id": "aura-browser",
+    "name": "AURA Browser",
+    "status": "Planned",
+    "status_type": "planned",
+    "description": "Privacy-focused Android browser with AI assistant, tracker blocker and privacy tools.",
+    "categories": ["Cybersecurity", "Mobile App", "Tools"]
+  },
+  {
+    "id": "playora",
+    "name": "Playora",
+    "status": "Planned",
+    "status_type": "planned",
+    "description": "Offline gaming hub with casual and multiplayer (2-4 player) games.",
+    "categories": ["Mobile App", "Games"]
+  },
+  {
+    "id": "portzen",
+    "name": "Portzen",
+    "status": "In Development",
+    "status_type": "in-development",
+    "description": "Port monitoring and network analysis tool for security and reconnaissance.",
+    "categories": ["Cybersecurity", "Tools"]
+  },
+  {
+    "id": "cybersecurity-toolkit",
+    "name": "CybersecurityToolkit",
+    "status": "Planned",
+    "status_type": "planned",
+    "description": "All-in-one learning and practice app for cybersecurity.",
+    "categories": ["Cybersecurity", "Mobile App", "Tools"]
+  },
+  {
+    "id": "apna-hisaab-kitaab",
+    "name": "Apna Hisaab Kitaab",
+    "status": "Planned",
+    "status_type": "planned",
+    "description": "Collaborative trip expense tracker to manage and settle shared expenses.",
+    "categories": ["Web App", "Mobile App", "Tools"]
+  },
+  {
+    "id": "trust-scanner",
+    "name": "Trust Scanner",
+    "status": "Planned",
+    "status_type": "planned",
+    "description": "Media and content trust analyzer using Sightengine, GPTZero and more.",
+    "categories": ["Cybersecurity", "AI / ML", "Web App", "Tools"]
+  },
+  {
+    "id": "ai-security-assistant",
+    "name": "AI Security Assistant",
+    "status": "Exploring",
+    "status_type": "exploring",
+    "description": "An AI-powered assistant for cybersecurity learning, analysis and vulnerability support.",
+    "categories": ["Cybersecurity", "AI / ML", "Exploring"]
+  },
+  {
+    "id": "more-ideas",
+    "name": "More Ideas",
+    "status": "Exploring",
+    "status_type": "exploring",
+    "description": "Additional ideas in AI, cybersecurity, productivity and utility tools.",
+    "categories": ["Cybersecurity", "AI / ML", "Tools", "Exploring"]
+  }
+]

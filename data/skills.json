@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {"name": "Python", "category": "Programming"},
+    {"name": "Flask", "category": "Web Development"},
+    {"name": "HTML", "category": "Web Development"},
+    {"name": "CSS", "category": "Web Development"},
+    {"name": "Linux", "category": "Operating Systems"},
+    {"name": "Burp Suite", "category": "Cybersecurity"},
+    {"name": "Nmap", "category": "Cybersecurity"}
+  ],
+  "domain_expertise": [
+    {"name": "Web Security", "icon": "fas fa-shield-alt", "color": "#00E6B8"},
+    {"name": "Network Security", "icon": "fas fa-network-wired", "color": "#00E6B8"},
+    {"name": "Penetration Testing", "icon": "fas fa-crosshairs", "color": "#00E6B8"},
+    {"name": "Red Team", "icon": "fas fa-bullseye", "color": "#EF4444"},
+    {"name": "DevOps", "icon": "fas fa-cloud", "color": "#00E6B8"},
+    {"name": "App Development", "icon": "fas fa-mobile-alt", "color": "#00E6B8"}
+  ]
+}

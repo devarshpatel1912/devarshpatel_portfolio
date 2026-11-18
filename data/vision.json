@@ -1,0 +1,27 @@
+[
+  {
+    "id": "miles-memories",
+    "name": "Miles & Memories",
+    "category": "Mobile App",
+    "categories": [
+      "Mobile App"
+    ],
+    "status": "Planned",
+    "status_type": "planned",
+    "description": "A travel companion app to plan journeys, capture memorable moments, organize travel photos and videos, and preserve personal travel experiences.",
+    "short_description": "Plan trips, capture moments, and keep every journey alive.",
+    "planned_features": [
+      "Trip Planning",
+      "Travel Memories Gallery",
+      "Photo and Video Albums",
+      "Destination-Based Albums",
+      "Journey Timeline",
+      "Travel Expense Tracking",
+      "Favourite Memories",
+      "Trip Highlights",
+      "Memory Search and Filters"
+    ],
+    "technologies": [],
+    "color": "#00E6B8"
+  }
+]

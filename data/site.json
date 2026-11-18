@@ -1,0 +1,65 @@
+{
+  "name": "Devarsh Patel",
+  "title": "Software Developer & Cybersecurity Engineer",
+  "tagline": "Building secure, scalable applications and exploring cybersecurity, web security and networking.",
+  "email": "devarshpatel.191204@gmail.com",
+  "linkedin": "https://linkedin.com/in/devarsh-patel-42105a278",
+  "github": "https://github.com/devarshpatel1912",
+  "location": "India",
+  "about": "I am an Information Technology student at Government Engineering College, Modasa (GEC Modasa). I am passionate about building real-world applications and exploring cybersecurity, with a long-term goal of becoming a Red Team expert. I develop practical applications using Python, Flask and other technologies while continuously improving my cybersecurity knowledge.",
+  "education": [
+    {
+      "institution": "Government Engineering College, Modasa",
+      "degree": "B.E. Information Technology",
+      "score": "CGPA: 6.90",
+      "icon": "fa-graduation-cap"
+    },
+    {
+      "institution": "Vidyamandir",
+      "degree": "Higher Secondary (12th)",
+      "score": "Percentage: 50.60%",
+      "icon": "fa-school"
+    },
+    {
+      "institution": "St Anne's High School",
+      "degree": "Secondary School (10th)",
+      "score": "Percentage: 96.50%",
+      "icon": "fa-school"
+    }
+  ],
+  "experience": [
+    {
+      "company": "MST Networks",
+      "position": "Cybersecurity Intern",
+      "type": "Internship",
+      "duration": "Jan 2026 – Apr 2026",
+      "location": "Visakhapatnam, AP",
+      "responsibilities": [
+        "Worked on Cyttack.ai (DDoS Simulation Platform).",
+        "Prepared documentation, pitch decks and customer flows.",
+        "Performed manual testing (User, Partner and Admin panels).",
+        "Worked on DomainXray and supported product improvements."
+      ]
+    },
+    {
+      "company": "BrainyBeam",
+      "position": "Data Science & Machine Learning Intern",
+      "type": "Internship",
+      "duration": "15 Days",
+      "location": "India",
+      "responsibilities": [
+        "Explored ML concepts and worked on small data projects.",
+        "Gained hands-on experience with Python and ML libraries."
+      ]
+    }
+  ],
+  "certifications": ["Information Technology"],
+  "interests": ["Cybersecurity", "Artificial Intelligence"],
+  "strengths": ["Teamwork", "Problem Solving", "Patience"],
+  "stats": [
+    {"value": "10+", "label": "Projects", "icon": "fa-code"},
+    {"value": "2+", "label": "Internships", "icon": "fa-shield-alt"},
+    {"value": "Red Team", "label": "Career Goal", "icon": "fa-crosshairs"},
+    {"value": "Always", "label": "Learning", "icon": "fa-mug-hot"}
+  ]
+}

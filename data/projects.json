@@ -1,0 +1,125 @@
+[
+  {
+    "id": "domainxray",
+    "name": "DomainXray",
+    "category": "Web",
+    "featured": false,
+    "description": "Domain intelligence & reconnaissance platform (DNS, SSL, Subdomain, ISP).",
+    "short_description": "Domain intelligence & reconnaissance platform (DNS, SSL, Subdomain, ISP).",
+    "technologies": [
+      "Python",
+      "Flask",
+      "Security"
+    ],
+    "github": "https://github.com/devarshpatel1912",
+    "live_demo": "https://domainscanner-o1t0.onrender.com/",
+    "status": "Active",
+    "color": "#00E6B8"
+  },
+  {
+    "id": "streaksy",
+    "name": "Streaksy",
+    "category": "Mobile",
+    "featured": false,
+    "description": "Habit tracker with streaks, progress tracking and offline support.",
+    "short_description": "Habit tracker with streaks, progress tracking and offline support.",
+    "technologies": [
+      "Flutter",
+      "Supabase",
+      "SQLite"
+    ],
+    "github": "https://github.com/devarshpatel1912",
+    "live_demo": "",
+    "status": "In Development",
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "aura-browser",
+    "name": "AURA Browser",
+    "category": "Mobile",
+    "featured": false,
+    "description": "Privacy-focused browser with tracker blocking, private mode and AI assistant.",
+    "short_description": "Privacy-focused browser with tracker blocking, private mode and AI assistant.",
+    "technologies": [
+      "Flutter",
+      "Android",
+      "Privacy"
+    ],
+    "github": "https://github.com/devarshpatel1912",
+    "live_demo": "",
+    "status": "In Development",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "cybersecurity-toolkit",
+    "name": "Cybersecurity Toolkit",
+    "category": "Cybersecurity",
+    "featured": false,
+    "description": "Educational app covering vulnerabilities, attacks and security tools.",
+    "short_description": "Educational app covering vulnerabilities, attacks and security tools.",
+    "technologies": [
+      "Flutter",
+      "Security",
+      "Learning"
+    ],
+    "github": "https://github.com/devarshpatel1912",
+    "live_demo": "",
+    "status": "In Development",
+    "color": "#F59E0B"
+  },
+  {
+    "id": "portzen",
+    "name": "Portzen",
+    "category": "Cybersecurity",
+    "featured": false,
+    "description": "Port monitoring and network analysis tool for identifying open ports, monitoring network services, and understanding exposed network endpoints.",
+    "short_description": "Port monitoring and network security analysis tool.",
+    "technologies": [
+      "Python",
+      "Networking",
+      "Cybersecurity",
+      "Nmap"
+    ],
+    "github": "https://github.com/devarshpatel1912",
+    "live_demo": "",
+    "status": "In Development",
+    "color": "#00CFFF"
+  },
+  {
+    "id": "playora",
+    "name": "Playora",
+    "category": "Tools",
+    "featured": false,
+    "description": "Offline gaming hub with single & local multiplayer casual games.",
+    "short_description": "Offline gaming hub with single & local multiplayer casual games.",
+    "technologies": [
+      "Flutter",
+      "Android",
+      "Games"
+    ],
+    "github": "https://github.com/devarshpatel1912",
+    "live_demo": "",
+    "status": "In Development",
+    "color": "#10B981"
+  },
+  {
+    "id": "cybersecurity-copilot",
+    "name": "Cybersecurity Copilot",
+    "category": "AI / Cybersecurity",
+    "featured": false,
+    "description": "An AI-powered cybersecurity assistant that helps users understand security concepts, analyze vulnerabilities, investigate security issues, and access intelligent cybersecurity guidance using LLMs and RAG.",
+    "short_description": "AI-powered cybersecurity assistant for security analysis, vulnerability insights, and intelligent security guidance.",
+    "technologies": [
+      "Python",
+      "Flask",
+      "LLM",
+      "RAG",
+      "OpenRouter API",
+      "PostgreSQL"
+    ],
+    "github": "",
+    "live_demo": "",
+    "status": "In Development",
+    "color": "#00E6B8"
+  }
+]
