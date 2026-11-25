@@ -41,6 +41,29 @@ def download_resume():
                 )
     return "Resume not found", 404
 
+@app.route('/download/streaksy')
+@app.route('/download/streaksy.apk')
+def download_streaksy():
+    apk_dir = os.path.join(app.root_path, 'static', 'apk')
+    for candidate in ['streaksy.apk', 'Streaksy.apk', 'app-release.apk']:
+        if os.path.exists(os.path.join(apk_dir, candidate)):
+            return send_from_directory(
+                apk_dir,
+                candidate,
+                as_attachment=True,
+                download_name='streaksy.apk'
+            )
+    if os.path.exists(apk_dir):
+        for f in os.listdir(apk_dir):
+            if f.lower().endswith('.apk'):
+                return send_from_directory(
+                    apk_dir,
+                    f,
+                    as_attachment=True,
+                    download_name=f
+                )
+    return "Streaksy APK not found. Please place your APK file in 'static/apk/' directory.", 404
+
 @app.route('/contact', methods=['POST'])
 def contact():
     data = request.get_json()

@@ -160,7 +160,11 @@
                             <i class="fab fa-github"></i>
                         </span>
                         {% endif %}
-                        {% if project.live_demo %}
+                        {% if project.download_apk %}
+                        <a href="{{ project.download_apk }}" class="project-link live download-apk-btn" download>
+                            Download APK <i class="fas fa-download"></i>
+                        </a>
+                        {% elif project.live_demo %}
                         <a href="{{ project.live_demo }}" target="_blank" rel="noopener" class="project-link live">
                             Live Demo <i class="fas fa-external-link-alt"></i>
                         </a>
